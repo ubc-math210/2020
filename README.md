@@ -11,4 +11,5 @@
 
 | Date | Notebook | Topics | [*Mathematical Python*](http://www.math.ubc.ca/~pwalls/math-python) |
 | :---: | :---: | :---: | :---: |
-| September 11 | [notes_2020_09_11.ipynb](notes_2020_09_11.ipynb) | Jupyter notebooks and markdown | [Jupyter](http://www.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) and [markdown](https://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) |
+| September 11 | [notes_2020_09_11.ipynb](notes_2020_09_11.ipynb) | Jupyter notebooks and markdown | [Jupyter](http://www.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) and [markdown](http://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) |
+| September 14 | [notes_2020_09_14.ipynb](notes_2020_09_14.ipynb) | LaTeX | [LaTeX](http://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
