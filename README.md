@@ -13,3 +13,4 @@
 | :---: | :---: | :---: | :---: |
 | September 11 | [notes_2020_09_11.ipynb](notes_2020_09_11.ipynb) | Jupyter notebooks and markdown | [Jupyter](http://www.math.ubc.ca/~pwalls/math-python/jupyter/notebook/) and [markdown](http://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/) |
 | September 14 | [notes_2020_09_14.ipynb](notes_2020_09_14.ipynb) | LaTeX | [LaTeX](http://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
+| September 16 | [notes_2020_09_16.ipynb](notes_2020_09_16.ipynb) | Number and variables | [Numbers](http://www.math.ubc.ca/~pwalls/math-python/python/numbers/) and [variables](http://www.math.ubc.ca/~pwalls/math-python/python/variables/) |
