@@ -15,3 +15,4 @@
 | September 14 | [notes_2020_09_14.ipynb](notes_2020_09_14.ipynb) | LaTeX | [LaTeX](http://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/) |
 | September 16 | [notes_2020_09_16.ipynb](notes_2020_09_16.ipynb) | Numbers and variables | [Numbers](http://www.math.ubc.ca/~pwalls/math-python/python/numbers/) and [Variables](http://www.math.ubc.ca/~pwalls/math-python/python/variables/) |
 | September 18 | [notes_2020_09_18.ipynb](notes_2020_09_18.ipynb) | Sequences and builtin functions | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
+| September 21 | [notes_2020_09_21.ipynb](notes_2020_09_21.ipynb) | Sequences and builtin functions (continued) | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
