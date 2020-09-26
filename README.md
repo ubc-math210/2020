@@ -17,3 +17,4 @@
 | September 18 | [notes_2020_09_18.ipynb](notes_2020_09_18.ipynb) | Sequences and builtin functions | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 21 | [notes_2020_09_21.ipynb](notes_2020_09_21.ipynb) | Sequences and builtin functions (continued) | [Sequences](http://www.math.ubc.ca/~pwalls/math-python/python/sequences/) and [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 23 | [notes_2020_09_23.ipynb](notes_2020_09_23.ipynb) | Functions | [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
+| September 25 | [notes_2020_09_25.ipynb](notes_2020_09_25.ipynb) | Boolean values and `if` statements | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
