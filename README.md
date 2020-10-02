@@ -19,3 +19,4 @@
 | September 23 | [notes_2020_09_23.ipynb](notes_2020_09_23.ipynb) | Functions | [Functions](http://www.math.ubc.ca/~pwalls/math-python/python/functions/) |
 | September 25 | [notes_2020_09_25.ipynb](notes_2020_09_25.ipynb) | Boolean values and `if` statements | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
 | September 28 | [notes_2020_09_28.ipynb](notes_2020_09_28.ipynb) | `for` loops | [Loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
+| September 30 | [notes_2020_09_30.ipynb](notes_2020_09_30.ipynb) | Bisection method | [Bisection method](https://www.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
