@@ -20,3 +20,5 @@
 | September 25 | [notes_2020_09_25.ipynb](notes_2020_09_25.ipynb) | Boolean values and `if` statements | [Logic](http://www.math.ubc.ca/~pwalls/math-python/python/logic/) |
 | September 28 | [notes_2020_09_28.ipynb](notes_2020_09_28.ipynb) | `for` loops | [Loops](http://www.math.ubc.ca/~pwalls/math-python/python/loops/) |
 | September 30 | [notes_2020_09_30.ipynb](notes_2020_09_30.ipynb) | Bisection method | [Bisection method](https://www.math.ubc.ca/~pwalls/math-python/roots-optimization/bisection/) |
+| October 9 | [notes_2020_10_09.ipynb](notes_2020_10_09.ipynb) | Python packages | [NumPy](https://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](https://www.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
+| October 14 | [notes_2020_10_14.ipynb](notes_2020_10_14.ipynb) | NumPy arrays and plotting | [NumPy](https://www.math.ubc.ca/~pwalls/math-python/scipy/numpy/) and [Matplotlib](https://www.math.ubc.ca/~pwalls/math-python/scipy/matplotlib/) |
