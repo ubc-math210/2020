@@ -27,3 +27,4 @@
 | October 30 | [notes_2020_10_30.ipynb](notes_2020_10_30.ipynb) | Simpson's rule | [Simpson's rule](http://www.math.ubc.ca/~pwalls/math-python/integration/simpsons-rule/) |
 | November 2 | [notes_2020_11_02.ipynb](notes_2020_11_02.ipynb) | Euler's method | [First order equations](http://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | November 6 | [notes_2020_11_06.ipynb](notes_2020_11_06.ipynb) | Heun's method | [First order equations](http://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
+| November 13 | [notes_2020_11_13.ipynb](notes_2020_11_06.ipynb) | Euler's nethod for second order equations |  |
