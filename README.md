@@ -29,3 +29,4 @@
 | November 6 | [notes_2020_11_06.ipynb](notes_2020_11_06.ipynb) | Heun's method | [First order equations](http://www.math.ubc.ca/~pwalls/math-python/differential-equations/first-order/) |
 | November 13 | [notes_2020_11_13.ipynb](notes_2020_11_13.ipynb) | Euler's nethod for second order equations |  |
 | November 16 | [notes_2020_11_16.ipynb](notes_2020_11_16.ipynb) | Systems of equations | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)  |
+| November 18 | [notes_2020_11_18.ipynb](notes_2020_11_18.ipynb) | Systems of equations | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)  |
