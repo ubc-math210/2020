@@ -31,3 +31,4 @@
 | November 16 | [notes_2020_11_16.ipynb](notes_2020_11_16.ipynb) | Systems of equations | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)  |
 | November 18 | [notes_2020_11_18.ipynb](notes_2020_11_18.ipynb) | Systems of equations | [scipy.integrate.odeint](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)  |
 | November 20 | [notes_2020_11_20.ipynb](notes_2020_11_20.ipynb) | Linear algebra with SciPy | [Linear algebra with SciPy](http://www.math.ubc.ca/~pwalls/math-python/linear-algebra/linear-algebra-scipy/) and [scipy.linalg](https://docs.scipy.org/doc/scipy/reference/tutorial/linalg.html)  |
+| November 25 | [notes_2020_11_25.ipynb](notes_2020_11_25.ipynb) | LU factorization | [Linear systems](http://www.math.ubc.ca/~pwalls/math-python/linear-algebra/solving-linear-systems/)  |
